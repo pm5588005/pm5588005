@@ -2,7 +2,7 @@
 
 Meu nome é Paloma Mendes
 
-- Estou estudando no [Alura](https://ww.alura.com
+- Estou estudando no [Alura](https://ww.alura.com)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
